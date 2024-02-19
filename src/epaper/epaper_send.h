@@ -2,7 +2,6 @@
 #define EPAPER_SEND_H
 
 #include <stdint.h>
-#include <gpio_hal.h>
 #include <spi_hal.h>
 #include <msp430.h>
 

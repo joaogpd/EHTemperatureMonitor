@@ -1,6 +1,5 @@
 #include <util.h>
 #include <epaper_tasks.h>
-#include <gpio_hal.h>
 #include <spi_hal.h>
 #include <adc_hal.h>
 #include <msp430.h>

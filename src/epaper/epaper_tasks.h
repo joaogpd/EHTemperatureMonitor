@@ -6,7 +6,6 @@
 #include <stdbool.h>
 #include <stdlib.h>
 #include <SchedulerVTimer.h>
-#include <gpio_hal.h>
 #include <epaper.h>
 #include <adc_hal.h>
 
